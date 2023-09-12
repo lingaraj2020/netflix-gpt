@@ -17,7 +17,8 @@
         -movie suggetions
             -movielist*N
             -vertical scroll feature
-    
+
+        
     -netflix-gpt
         -search bar
         -movie suggestions
