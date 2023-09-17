@@ -2,6 +2,9 @@
 
 -create-react-app
 -configured tailwindCSS
+-Header
+-Logi form
+-Sign Up form
  
 
 
