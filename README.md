@@ -3,8 +3,12 @@
 -create-react-app
 -configured tailwindCSS
 -Header
+-Routing app
 -Logi form
 -Sign Up form
+-Form validation
+-useRef hook
+
  
 
 
