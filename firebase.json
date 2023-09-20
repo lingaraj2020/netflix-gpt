@@ -1,0 +1,9 @@
+{
+  "database": {
+    "rules": "databse.json"
+  },
+  "hosting": {
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
