@@ -19,7 +19,9 @@
 -Bug fix-if the user is not loggin redirect to /browse to login page vice-verca.
 -unsubscribed to the onauthstatechanged callback
 -add hardcided values to constant files.
-
+-reigister tmdb & create app and get api key and access token
+-Get data from TMDB now playing movies API
+ 
 
  
 
